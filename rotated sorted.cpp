@@ -25,6 +25,7 @@ int mid;
                  end=mid-1;
         }
     }
+      
     else
     {
         if(A[mid]>x) 
